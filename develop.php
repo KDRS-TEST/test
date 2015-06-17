@@ -8,5 +8,7 @@
 			print ', ';
 		}
 	}
+	
+	print 'END test.php' . PHP_EOL . PHP_EOL;
 
 ?>
