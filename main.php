@@ -4,7 +4,8 @@
 
 	for ($n=0; $n<10; $n++) {
 		for ($m=0; $m<10; $m++)
-			print ($n * $m) . PHP_EOL;
+			$y = $n * $m
+			print $y . PHP_EOL;
 		}
 	}
 	
